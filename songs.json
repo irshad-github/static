@@ -1,0 +1,194 @@
+[
+  {
+    "id": 1,
+    "name": "Mekanın Sahibi",
+    "artist": "Norm Ender",
+    "cover": "https://irshad-github.github.io/static/1.jpg",
+    "source": "https://irshad-github.github.io/static/1.mp3",
+    "favorited": false
+  },
+  {
+    "id": 2,
+    "name": "Everybody Knows",
+    "artist": "The Stark Palace",
+    "cover": "https://raw.githubusercontent.com/muhammederdem/mini-player/master/img/2.jpg",
+    "source": "https://raw.githubusercontent.com/muhammederdem/mini-player/master/mp3/2.mp3",
+    "favorited": true
+  },
+  {
+    "id": 3,
+    "name": "Extreme Ways",
+    "artist": "The Stark Palace",
+    "cover": "https://raw.githubusercontent.com/muhammederdem/mini-player/master/img/3.jpg",
+    "source": "https://raw.githubusercontent.com/muhammederdem/mini-player/master/mp3/3.mp3",
+    "favorited": false
+  },
+  {
+    "id": 4,
+    "name": "Butterflies",
+    "artist": "Sia",
+    "cover": "https://raw.githubusercontent.com/muhammederdem/mini-player/master/img/4.jpg",
+    "source": "https://raw.githubusercontent.com/muhammederdem/mini-player/master/mp3/4.mp3",
+    "favorited": false
+  },
+  {
+    "id": 5,
+    "name": "The Final Victory",
+    "artist": "Haggard",
+    "cover": "https://raw.githubusercontent.com/muhammederdem/mini-player/master/img/5.jpg",
+    "source": "https://raw.githubusercontent.com/muhammederdem/mini-player/master/mp3/5.mp3",
+    "favorited": true
+  },
+  {
+    "id": 6,
+    "name": "Genius ft. Sia, Diplo, Labrinth",
+    "artist": "Norm Ender",
+    "cover": "https://raw.githubusercontent.com/muhammederdem/mini-player/master/img/6.jpg",
+    "source": "https://raw.githubusercontent.com/muhammederdem/mini-player/master/mp3/6.mp3",
+    "favorited": false
+  },
+  {
+    "id": 7,
+    "name": "Cro Magnon Man",
+    "artist": "Norm Ender",
+    "cover": "https://raw.githubusercontent.com/muhammederdem/mini-player/master/img/7.jpg",
+    "source": "https://raw.githubusercontent.com/muhammederdem/mini-player/master/mp3/7.mp3",
+    "favorited": true
+  },
+  {
+    "id": 8,
+    "name": "Overnight",
+    "artist": "Grandson",
+    "cover": "https://irshad-github.github.io/static/1.jpeg",
+    "source": "https://irshad-github.github.io/static/2.mp3",
+    "favorited": false
+  },
+  {
+    "id": 9,
+    "name": "Over N Over",
+    "artist": "Grandson",
+    "cover": "https://irshad-github.github.io/static/2.jpg",
+    "source": "https://raw.githubusercontent.com/muhammederdem/mini-player/master/mp3/8.mp3",
+    "favorited": false
+  },
+  {
+    "id": 10,
+    "name": "Overdose",
+    "artist": "Grandson",
+    "cover": "https://raw.githubusercontent.com/muhammederdem/mini-player/master/img/8.jpg",
+    "source": "https://raw.githubusercontent.com/muhammederdem/mini-player/master/mp3/8.mp3",
+    "favorited": false
+  },
+  {
+    "id": 11,
+    "name": "Rag'n'Bone Man",
+    "artist": "Norm Ender",
+    "cover": "https://raw.githubusercontent.com/muhammederdem/mini-player/master/img/9.jpg",
+    "source": "https://raw.githubusercontent.com/muhammederdem/mini-player/master/mp3/9.mp3",
+    "favorited": false
+  },
+  {
+    "id": 12,
+    "name": "Nightmare",
+    "artist": "Norm Ender",
+    "source": "https://irshad-github.github.io/static/2.mp3",
+    "cover": "https://irshad-github.github.io/static/2v.jpg",
+    "favorited": false
+  },
+  {
+    "id": 13,
+    "name": "Cro Magnon Man",
+    "artist": "The Stark Palace",
+    "source": "http://www.jplayer.org/audio/mp3/TSP-01-Cro_magnon_man.mp3",
+    "cover": "https://i.imgur.com/lXvsuBu.png",
+    "favorited": false
+  },
+  {
+    "id": 14,
+    "name": "Mekanın Sahibi",
+    "artist": "Norm Ender",
+    "source": "http://www.jplayer.org/audio/m4a/Miaow-07-Bubble.m4a",
+    "cover": "https://i.imgur.com/klJKSVZ.jpg",
+    "favorited": false
+  },
+  {
+    "id": 15,
+    "name": "Hidden",
+    "artist": "Grandson",
+    "source": "http://www.jplayer.org/audio/mp3/Miaow-02-Hidden.mp3",
+    "cover": "https://irshad-github.github.io/static/1v.jpg",
+    "favorited": false
+  },
+  {
+    "id": 16,
+    "name": "Rag vova",
+    "artist": "Human",
+    "source": "https://irshad-github.github.io/static/5.mp3",
+    "cover": "https://irshad-github.github.io/static/5.jpg",
+    "favorited": false
+  },
+  {
+    "id": 17,
+    "name": "No Time",
+    "artist": "Lastlings",
+    "source": "https://irshad-github.github.io/static/7.mp3",
+    "cover": "https://irshad-github.github.io/static/3.jpg",
+    "favorited": true
+  },
+  {
+    "id": 18,
+    "name": "Blinding Lights",
+    "artist": "Lastlings",
+    "source": "https://irshad-github.github.io/static/6.mp3",
+    "cover": "https://irshad-github.github.io/static/4.jpg",
+    "favorited": true
+  },
+  {
+    "id": 19,
+    "name": "джованна",
+    "artist": "Lastlings",
+    "source": "https://irshad-github.github.io/static/8.mp3",
+    "cover": "https://irshad-github.github.io/static/5.jpg",
+    "favorited": false
+  },
+  {
+    "id": 20,
+    "name": "A Man",
+    "artist": "Lastlings",
+    "source": "https://irshad-github.github.io/static/10.mp3",
+    "cover": "https://irshad-github.github.io/static/6.jpg",
+    "favorited": false
+  },
+  {
+    "id": 21,
+    "name": "Unforgetting",
+    "artist": "Human",
+    "source": "https://irshad-github.github.io/static/4.mp3",
+    "cover": "https://irshad-github.github.io/static/3.jpg",
+    "favorited": true
+  },
+  {
+    "id": 22,
+    "name": "Waharan",
+    "artist": "Randall",
+    "source": "https://irshad-github.github.io/static/12.mp3",
+    "cover": "https://irshad-github.github.io/static/5v.jpg",
+    "favorited": true
+  },
+  {
+    "id": 23,
+    "name": "Road Down Hill",
+    "artist": "Randall",
+    "source": "https://irshad-github.github.io/static/11.mp3",
+    "cover": "https://irshad-github.github.io/static/5.jpg",
+    "favorited": false
+  },
+  {
+    "id": 24,
+    "name": "The Final Call",
+    "artist": "Haggard",
+    "source": "https://irshad-github.github.io/static/15.mp3",
+    "cover": "https://irshad-github.github.io/static/13.png",
+    "favorited": true
+  }
+]
